@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-sx8x2b.vuelosbaratos-enlinea.top/sitemap.xml
